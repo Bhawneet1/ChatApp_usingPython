@@ -1,56 +1,84 @@
-# ChatApp_usingPython
+<h1 align="center">Python Chat App 💬</h1>
 
-## Description
-ChatApp_using Python is a simple chat application built using Python and HTML and socket.io. It allows users to communicate in real-time over a network.
-## Screenshot
-![ChatApp Screenshot](\chatApp.png)
-## Installation
+![Demo App](/ChatApp.png)
+
+
+About This Project:
+
+-   🚀 Python virtual environment setup
+-   💬 Socket.io and Flask integration
+-   ✨ JavaScript on the frontend
+-   ✅ Deployment at the end
+
+### Run the App Locally
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/Bhawneet1/ChatApp_usingPython.git
-    ```
+
+```bash
+git clone https://github.com/burakorkmez/python-chat.git
+```
 
 2. Navigate to the project directory:
-    ```bash
-    cd ChatApp_usingPython
-    ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+cd python-chat
+```
 
-## Usage
+3. Create a virtual environment:
 
-1. Run the server:
-    ```bash
-    python server.py
-    ```
+-   On macOS and Linux:
 
-2. Open the client application:
-    ```bash
-    python client.py
-    ```
+```bash
+python3 -m venv venv
+```
 
-3. Follow the on-screen instructions to start chatting.
+-   On Windows:
 
-## Contributing
+```bash
+python -m venv venv
+```
 
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-branch
-    ```
-5. Open a pull request.
+5. Activate the virtual environment:
+
+-   On macOS and Linux:
+
+```bash
+source venv/bin/activate
+```
+
+-   On Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+6. Install the dependencies:
+
+-   On macOS and Linux:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+-   On Windows:
+
+```bash
+pip install -r requirements.txt
+```
+
+7. Run the app:
+
+-   On macOS and Linux:
+
+```bash
+python3 app.py
+```
+
+-   On Windows:
+
+```bash
+python app.py
+```
 
 ## Live Demo
 Check out the live demo of the application [here](https://chatapp-usingpython.onrender.com/).
