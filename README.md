@@ -59,5 +59,5 @@ Check out the live demo of the application [here](https://chatapp-usingpython.on
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or support, please contact Bhawneet1 at [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please contact me at [your-email@example.com](bhwneetsingh2004@gmail.com).
 
