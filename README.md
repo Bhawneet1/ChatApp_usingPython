@@ -52,8 +52,12 @@ ChatApp_usingPython is a simple chat application built using Python and HTML. It
     ```
 5. Open a pull request.
 
+## Live Demo
+Check out the live demo of the application [here](https://chatapp-usingpython.onrender.com/).
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or support, please contact Bhawneet1 at [your-email@example.com](mailto:your-email@example.com).
+
