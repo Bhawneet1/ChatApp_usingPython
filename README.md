@@ -3,7 +3,7 @@
 ## Description
 ChatApp_using Python is a simple chat application built using Python and HTML and socket.io. It allows users to communicate in real-time over a network.
 ## Screenshot
-![ChatApp Screenshot](chatApp.png)
+![ChatApp Screenshot](\chatApp.png)
 ## Installation
 
 1. Clone the repository:
